@@ -1,7 +1,5 @@
 ## Pokemon Routing
 
-Code samples for blog article - "Let's Build a Custom Vue Router".
-
 ## Demo
 
 <div align="center">
