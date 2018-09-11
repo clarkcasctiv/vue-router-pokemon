@@ -96,11 +96,22 @@ const VenusaurCard = {
   `
 };
 
-const routes = [
-  {path: '/', component: CharizardCard},
-  {path: '/charizard', component: CharizardCard},
-  {path: '/blastoise', component: BlastoiseCard},
-  {path: '/venusaur', component: VenusaurCard}
+const routes = [{
+    path: '/',
+    component: CharizardCard
+  },
+  {
+    path: '/charizard',
+    component: CharizardCard
+  },
+  {
+    path: '/blastoise',
+    component: BlastoiseCard
+  },
+  {
+    path: '/venusaur',
+    component: VenusaurCard
+  }
 ];
 
 const View = {
